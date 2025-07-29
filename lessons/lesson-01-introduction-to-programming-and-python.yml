@@ -13,7 +13,7 @@ description: "In this lesson students learn foundational programming concepts an
 
 # Longer description for the lesson page (use | for multi-line text)
 expanded_description: |
-The lesson consists of two parts, the live-coding activity and a take-home assignment. Each part has an associated Jupyter notebook. To prepare for the in-class coding activity, students are asked to read sections I and II that cover the basic use of Jupyter notebooks and introductory programming concepts including data types, casting, variable assignment, formatted printing, comparison operators, and conditional statements. The live-coding activities in section III then focus on more advanced concepts including functions (user-defined and Python's built-in libraries), vectors, matrices, numerical integration, curve fitting, and plotting.    
+  The lesson consists of two parts, a live-coding activity and a take-home assignment. Each part has an associated Jupyter notebook. To prepare for the in-class coding activity, students are asked to read sections I and II that cover the basic use of Jupyter notebooks and introductory programming concepts including data types, casting, variable assignment, formatted printing, comparison operators, and conditional statements. The live-coding activities in section III then focus on more advanced concepts including functions (user-defined and Python's built-in libraries), vectors, matrices, numerical integration, curve fitting, and plotting.    
 
 # COURSE INFORMATION (REQUIRED)
 # Choose ONE: "None", "Beginner", "Intermediate", "Advanced"
