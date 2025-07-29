@@ -56,17 +56,17 @@ students_piloted: 20  # Number of students
 instructor_notes: |
   Additional context for instructors using this lesson:
  
-	- If needed, the instructor may choose to cover some of the topics (e.g. conditional statements) in section II of the live-coding notebook during the in-class demo.
+  - If needed, the instructor may choose to cover some of the topics (e.g. conditional statements) in section II of the live-coding notebook during the in-class demo.
 
-	- The live-coding activities do not assume that students are familiar with physical chemistry concepts and most sample problems are context-agnostic.
+  - The live-coding activities do not assume that students are familiar with physical chemistry concepts and most sample problems are context-agnostic.
 
-	- The mathematics required to complete the live-coding activities is fairly minimal. Sections III.4 and III.5 involve the use of vectors and matrices; we included the necessary background information so that students can follow the in-class coding activity.
+  - The mathematics required to complete the live-coding activities is fairly minimal. Sections III.4 and III.5 involve the use of vectors and matrices; we included the necessary background information so that students can follow the in-class coding activity.
 
-	- The student version of the Jupyter notebook for the live-coding activities contains less information than the corresponding instructor version. The omissions are intentional; we wanted to avoid overwhelming students with too much information and we believe that the additional details included in the instructor version are best discussed during the live-coding session.
+  - The student version of the Jupyter notebook for the live-coding activities contains less information than the corresponding instructor version. The omissions are intentional; we wanted to avoid overwhelming students with too much information and we believe that the additional details included in the instructor version are best discussed during the live-coding session.
 
-	- Problems 2 and 5 - 8 of the assignment notebook involve topics that are discussed in an undergraduate Physical Chemistry course. Although exposure to these topics (e.g. particle in a box model, hydrogen atom, and harmonic oscillator model) is likely to enhance students' experience, we provided enough information so that students can complete all the exercises after completing the live-coding activities.    
+  - Problems 2 and 5 - 8 of the assignment notebook involve topics that are discussed in an undergraduate Physical Chemistry course. Although exposure to these topics (e.g. particle in a box model, hydrogen atom, and harmonic oscillator model) is likely to enhance students' experience, we provided enough information so that students can complete all the exercises after completing the live-coding activities.    
 
-	- This lesson is the first in a four-lesson sequence, and we designed the assignment questions as preparation for later lessons. For example, students will use numerical integration and matrices in lesson 2 (which is focused on the linear variation method) while they will use curve fitting in lessons 3 (quantum chemistry simultion in psi4) and 4 (diatomic molecule IR spectrum analysis). 
+  - This lesson is the first in a four-lesson sequence, and we designed the assignment questions as preparation for later lessons. For example, students will use numerical integration and matrices in lesson 2 (which is focused on the linear variation method) while they will use curve fitting in lessons 3 (quantum chemistry simultion in psi4) and 4 (diatomic molecule IR spectrum analysis). 
   
   Timing notes:
   - If  students complete section I and II of the live-oding notebook as a pre-lab assignment, the exercises in section III can be completed in about 4-5 hours. 
@@ -75,10 +75,10 @@ instructor_notes: |
   Common student questions:
 
   - Students often get confused with thee 0 indexing of Python.
-	- Because the functions we implement in the live-coding activities are not reused, students fail to appreciate the utility of writing functions. Thus, it is a good idea to remind them that functions clean up code tremendously and they also increase the flexibility of code. 
-	- Students forget that simply calling a function does not mean that the return value(s) are saved outside the function.
-	- Many students thing that the variable names used inside functions must be the same as the variables names that are used when calling functions. 
-	- Students struggle with scoping of variables in Python.
+  - Because the functions we implement in the live-coding activities are not reused, students fail to appreciate the utility of writing functions. Thus, it is a good idea to remind them that functions clean up code tremendously and they also increase the flexibility of code. 
+  - Students forget that simply calling a function does not mean that the return value(s) are saved outside the function.
+  - Many students thing that the variable names used inside functions must be the same as the variables names that are used when calling functions. 
+  - Students struggle with scoping of variables in Python.
 
 # Related lessons that complement this one
 related_modules:
@@ -104,10 +104,10 @@ materials:
     
     # Learning objectives specific to this material
     objectives:
-			- "Understand and apply foundational programming concepts inculding data types, variabe assignment, for loops, functions, vector and matrix operations."
-			- "Learn the use of Numpy functions to declare and manipulate vectors and matrices."
-			- "Use Scipy funtions for curve fitting, spline interpolation, and numerical integration."
-			- "Use Matplotlib functions for plotting."
+      - "Understand and apply foundational programming concepts inculding data types, variabe assignment, for loops, functions, vector and matrix operations."
+      - "Learn the use of Numpy functions to declare and manipulate vectors and matrices."
+      - "Use Scipy funtions for curve fitting, spline interpolation, and numerical integration."
+      - "Use Matplotlib functions for plotting."
  
   # Add more materials as needed
   - title: "Part 2: Introduction to programming and python - assignment"
@@ -126,12 +126,12 @@ scientific_objectives:
 # What computational/programming skills will students develop?
 cyberinfrastructure_objectives:
   - "Interpret code to identify the data types used and identify the data type needed (int/float) for a specific problem." 
-	- "Use standard library functions to complete common scientific tasks including numerical integration and curve fitting."
-	- "Interpret the specific purpose a function and implement user-defined functions to solve problem-specific tasks."
-	- "Implement loops to execute iterative tasks."
-	- "Implement conditionals to affect loop execution in problem-specific contexts."
+  - "Use standard library functions to complete common scientific tasks including numerical integration and curve fitting."
+  - "Interpret the specific purpose a function and implement user-defined functions to solve problem-specific tasks."
+  - "Implement loops to execute iterative tasks."
+  - "Implement conditionals to affect loop execution in problem-specific contexts."
   - "Use SciPy libraries to initialize vectors and matrices."
-	- "Write code to access and manipulate vector/matrix elements."
+  - "Write code to access and manipulate vector/matrix elements."
   - "Use Matplotlib to visualize data."
 
 # PREREQUISITES (REQUIRED)
@@ -162,4 +162,4 @@ tags:
   - "numerical integration" 
   - "user-defined functions"
   - "curve fitting"
-	- "plotting data"  
+  - "plotting data"  
