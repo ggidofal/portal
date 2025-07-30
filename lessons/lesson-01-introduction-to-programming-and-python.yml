@@ -122,6 +122,7 @@ materials:
 # LEARNING OBJECTIVES (REQUIRED)
 # What molecular science concepts will students learn?
 scientific_objectives:
+  - "Apply programming concepts to solve basic scientific problems"
 
 # What computational/programming skills will students develop?
 cyberinfrastructure_objectives:
