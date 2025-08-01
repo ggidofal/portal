@@ -57,10 +57,10 @@ students_piloted: 20  # Number of students
 instructor_notes: |
   Additional context for instructors using this lesson:
   
- - This is the second lesson in the four-lesson sequence. 
- - If needed, the first lesson (introduction-to-programming-and-python) introduces students to basic programming concepts (loops, conditional statements, user-defined functions), data types (scalars, strings, vectors, and matrices), and built-in Python libraries and functions for numerical integration, curve fitting, plotting.  
- - To demonstrate the implementation of the linear variational method, it is recommended that the instructor lead a live coding session using the notebook for part 1. See approximate timing below.
- - After the live coding session students should be ready to tackle the assignment outlined in the notebook for part 2. The assignment includes using the linear variation method to compute approximate solutions for a double-well potential and to examine properties of the ground state solution. 
+  - This is the second lesson in the four-lesson sequence. 
+  - If needed, the first lesson (introduction-to-programming-and-python) introduces students to basic programming concepts (loops, conditional statements, user-defined functions), data types (scalars, strings, vectors, and matrices), and built-in Python libraries and functions for numerical integration, curve fitting, plotting.  
+  - To demonstrate the implementation of the linear variational method, it is recommended that the instructor lead a live coding session using the notebook for part 1. See approximate timing below.
+  - After the live coding session students should be ready to tackle the assignment outlined in the notebook for part 2. The assignment includes using the linear variation method to compute approximate solutions for a double-well potential and to examine properties of the ground state solution. 
   
   Timing notes:
   - At the beginning of the live coding session, the instructor is encouraged to spend time reviewing the key steps of applying the method (section 3 of notebook) and highlight elements of code design.  
