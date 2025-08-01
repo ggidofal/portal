@@ -67,16 +67,16 @@ instructor_notes: |
 
   Common student questions:
 
-  - Students often forget to assign different names for variables related to different spectra.
-  - It is a good idea to remind students that they should check their functions as they develop them.
-  - Students are often unsure how to check the acuracy of their results. It is helpful to remind them that, when done correctly, their analysis should be in agreement with the reference data listed on the NIST website.
-  - Students often fail to recognize that the expression relating alpha_e to B_e to the fitting parameters are not the same for the fundamental and the first overtone. It is good to remind them that, when done correctly, the values for these two quantities from the fundamental and first overtone should agree with each other (hence the suggested averaging in the analysis).
+ - Students often forget to assign different names for variables related to different spectra.
+ - It is a good idea to remind students that they should check their functions as they develop them.
+ - Students are often unsure how to check the acuracy of their results. It is helpful to remind them that, when done correctly, their analysis should be in agreement with the reference data listed on the NIST website.
+ - Students often fail to recognize that the expression relating alpha_e to B_e to the fitting parameters are not the same for the fundamental and the first overtone. It is good to remind them that, when done correctly, the values for these two quantities from the fundamental and first overtone should agree with each other (hence the suggested averaging in the analysis).
 
 # Related lessons that complement this one
 related_modules:
-  - "foundational-intro-python"
-  - "introduction-to-programming-and-python"
-  - "quantum-chemistry-simulations-in-psi4"
+ - "foundational-intro-python"
+ - "introduction-to-programming-and-python"
+ - "quantum-chemistry-simulations-in-psi4"
 
 # REPOSITORY URLS (REQUIRED)
 # Link to the repository containing your public material
