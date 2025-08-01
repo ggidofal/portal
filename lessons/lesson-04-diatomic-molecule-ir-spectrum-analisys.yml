@@ -58,9 +58,9 @@ students_piloted: 20  # Number of students
 instructor_notes: |
   Additional context for instructors using this lesson: 
 
- - The intent of this activity is to provide students with an opportunity to use their programming skills to implement scientific code from essentially scratch. The prompts and function descriptions in the Jupyter notebook serve as an indirect guide to designing their code. 
+  - The intent of this activity is to provide students with an opportunity to use their programming skills to implement scientific code from essentially scratch. The prompts and function descriptions in the Jupyter notebook serve as an indirect guide to designing their code. 
 
- - Once the code for the functions is written, students are more or less are left on their own to decide how (order of function calls and variable assignments) to properly use the functions in their data analysis.   
+  - Once the code for the functions is written, students are more or less are left on their own to decide how (order of function calls and variable assignments) to properly use the functions in their data analysis.   
  
   Timing notes:
  - If students have completed lesson 1 of the sequence (introduction-to-programming-and-python) or if they are familiar with programming in Python (in particular, they are able to implement functions and use built-in library functions for curve fitting), the in-class time required to complete the assignment is minimal (students may need help to get started with line assignment and reading in the data from files).
