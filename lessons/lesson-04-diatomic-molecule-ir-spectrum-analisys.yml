@@ -63,14 +63,14 @@ instructor_notes: |
   - Once the code for the functions is written, students are more or less are left on their own to decide how (order of function calls and variable assignments) to properly use the functions in their data analysis.   
  
   Timing notes:
- - If students have completed lesson 1 of the sequence (introduction-to-programming-and-python) or if they are familiar with programming in Python (in particular, they are able to implement functions and use built-in library functions for curve fitting), the in-class time required to complete the assignment is minimal (students may need help to get started with line assignment and reading in the data from files).
+  - If students have completed lesson 1 of the sequence (introduction-to-programming-and-python) or if they are familiar with programming in Python (in particular, they are able to implement functions and use built-in library functions for curve fitting), the in-class time required to complete the assignment is minimal (students may need help to get started with line assignment and reading in the data from files).
 
   Common student questions:
 
- - Students often forget to assign different names for variables related to different spectra.
- - It is a good idea to remind students that they should check their functions as they develop them.
- - Students are often unsure how to check the acuracy of their results. It is helpful to remind them that, when done correctly, their analysis should be in agreement with the reference data listed on the NIST website.
- - Students often fail to recognize that the expression relating alpha_e to B_e to the fitting parameters are not the same for the fundamental and the first overtone. It is good to remind them that, when done correctly, the values for these two quantities from the fundamental and first overtone should agree with each other (hence the suggested averaging in the analysis).
+  - Students often forget to assign different names for variables related to different spectra.
+  - It is a good idea to remind students that they should check their functions as they develop them.
+  - Students are often unsure how to check the acuracy of their results. It is helpful to remind them that, when done correctly, their analysis should be in agreement with the reference data listed on the NIST website.
+  - Students often fail to recognize that the expression relating alpha_e to B_e to the fitting parameters are not the same for the fundamental and the first overtone. It is good to remind them that, when done correctly, the values for these two quantities from the fundamental and first overtone should agree with each other (hence the suggested averaging in the analysis).
 
 # Related lessons that complement this one
 related_modules:
