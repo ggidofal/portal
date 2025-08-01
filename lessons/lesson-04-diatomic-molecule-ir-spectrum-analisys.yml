@@ -145,7 +145,7 @@ scientific_prerequisites:
 
 # What programming experience is assumed?
 programming_prerequisites:
-      - "Knowledge of basic Python syntax (variable types, variable assignment, formatted printing using f-strings, etc. ) and progrm execution sequence."
+      - "Knowledge of basic Python syntax (variable types, variable assignment, formatted printing using f-strings, etc. ) and program execution sequence."
       - "Understanding of functions and how to use them."
       - "Importing standard Python libraries (NumPy, SciPy, etc.) and using the functions included in these libraries."
       - "Writing user-defined functions to accomplish context-specific tasks."
